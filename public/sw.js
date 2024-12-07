@@ -67,7 +67,7 @@ if (!self.define) {
     });
   };
 }
-define(['./workbox-bd7e3b9b'], (function (workbox) { 'use strict';
+define(['./workbox-8817a5e5'], (function (workbox) { 'use strict';
 
   importScripts();
   self.skipWaiting();

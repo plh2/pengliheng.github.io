@@ -5,9 +5,9 @@ export default function Footer () {
 	return (
 		<div className="Footer-container">
 			©<span>Copyright</span>
-			<span>2017-2023</span>
+			<span>2017-2024</span>
 			<span>
-				<b>plh-blog.netlify.app</b>
+				<b>https://plhh.xyz</b>
 			</span>
 		</div>
 	)
