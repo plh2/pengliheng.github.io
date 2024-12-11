@@ -10,7 +10,7 @@ interface IProps {
 
 export default function Active({ path }: IProps) {
   const pathname = usePathname();
-  let active = pathname.includes(path);
+  let active = pathname?.includes?.(path);
   if (path === "/") {
     active = pathname === path;
   }

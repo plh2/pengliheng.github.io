@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/plh97/blog",
-  "author": "liheng.peng <liheng.peng@okg.com>",
+  "author": "plh97 <pengliheng111@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",

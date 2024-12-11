@@ -82,12 +82,6 @@ export default function RootLayout({
         />
 
       </head>
-      <Script
-        async
-        strategy="lazyOnload"
-        crossOrigin="anonymous"
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6302926892933340"
-      />
       <body
         suppressHydrationWarning
         className="bg-gray-100"
